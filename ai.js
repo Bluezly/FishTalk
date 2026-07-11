@@ -8,7 +8,7 @@ import { pcmToWav } from './wav.js';
 import { sessions } from './voice.js';
 
 const ASR_PROVIDER = (process.env.ASR_PROVIDER || 'groq').toLowerCase();
-const ASR_LANGUAGE = process.env.ASR_LANGUAGE || 'ar';
+const ASR_LANGUAGE = process.env.ASR_LANGUAGE || 'en';
 const ASR_MODEL = 'whisper-large-v3-turbo';
 export const THINK_TIMEOUT_MS = 45_000;
 
