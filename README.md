@@ -4,7 +4,7 @@ Voice bot for Discord built for the Fish Audio contest. Join a call, talk to it,
 
 ## Demo
 
-https://github.com/Bluezly/FishTalk/raw/7205c84bdd5d202adcb19b9e3983779ba1b22ff9/demo/Demo.mp4
+https://github.com/user-attachments/assets/273f2103-3ae5-4409-aa4a-fa8a875ef68e
 
 Used a TTS voice to talk to it in the video instead of my own mic — the bot just hears audio either way, doesn't matter where it comes from.
 
